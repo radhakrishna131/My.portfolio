@@ -1,0 +1,181 @@
+*{
+    font-family:  "Times New Roman", Times, seri;
+}
+body {
+    margin: 0;
+    font-size: 15px;
+    background-color: #F8EEFF;
+    
+}
+h1{
+    font-size: 50px;
+    color: #4B0082;
+}
+header h1{
+    color: white;
+    margin: 0;
+}
+
+header{
+    background-color: #4B0082;
+    height:100vh;
+    color: white;
+}
+footer{
+    height: 15vh;
+    color: white;
+    background-color: black;
+}
+button{
+    
+    height: 40px;
+    width: 140px;
+    border: 1px solid #9300FF;
+    border-radius: 10px;
+    cursor: pointer;
+    display: inline;
+    
+    
+}
+.button:hover{
+    background-color: #4B0082;
+}
+.main{
+    padding: 20px;
+}
+.me{
+    height: 300px;
+    border: 2px solid black;
+}
+section{
+    height: 100vh;
+    border: 1px solid grey;
+    border-radius: 20px;
+    margin-bottom: 20px;
+}
+.submit{
+    height: 40px;
+    width: 140px;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+    background-color: #4B0082;
+    color: white;
+    font-style:garamond;
+    
+}
+.submit:hover{
+    background-color: #9300FF;
+}
+input{
+    border-radius: 5px;
+    border: 1px solid lightgray;
+    height: 25px;
+}
+.top{
+    height: 70px;
+    width: 70px;
+    border-radius: 50%;
+    border: none;
+    background-color: #4B0082;
+    color: white;
+    position: fixed;
+    right: 0px;
+    bottom: 0px;
+    cursor: pointer;
+    flex-direction: row-reverse;
+}
+header{
+    height: 100vh;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    flex-direction: column;
+    
+    
+}
+h1{
+    text-align: center;
+    
+}
+p{
+    font-size: 30px;
+    text-align: center;
+}
+ol{
+    font-size: 25px;
+    text-align: center;
+}
+.contact{
+   text-align: center; 
+}
+li{
+    text-align: center;
+    font-size: 25px;
+}
+
+.email{
+    color: white;
+    background-color: #4B0082;
+    border: 2px solid whitesmoke;
+    border-radius: 5px;
+    size: 10px;
+}
+section{
+    height: 100vh;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    height: 1280px;
+    
+}
+.project{
+    right: 100px;
+    align-items: center;
+    text-align: center;
+    
+}
+.insta{
+    height: 100px;
+    margin-left: 35%;
+    
+    
+}
+.facebook{
+    height: 100px;
+    
+
+}
+.youtube{
+    height:100px;
+}
+.table{
+    height: 100px;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    flex-direction: column;
+    border: 1px;
+    border-color: white;
+    background-color: #F8EEFF;
+    display: inline;
+    font-size: 25px;
+    
+}
+.r{
+    background-color: #4B0082;
+    color: white;
+    border-radius: 20px;
+    border: 2px;
+}
+h2{
+    text-align: center;
+    color: lightgrey;
+}
+.r{
+    border-radius: 50%;
+}
