@@ -34,11 +34,11 @@ button{
     border: 1px solid #9300FF;
     border-radius: 10px;
     cursor: pointer;
-    display: flex;
+    display: inline-flex;
     align-content: center;
     align-items: center;
     justify-content: center;
-    flex-direction: column;
+    flex-direction: row;
 }
 .button:hover{
     background-color: #4B0082;
