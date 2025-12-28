@@ -9,8 +9,8 @@
 </a>
 
 <p>
-  <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20Views&color=3b82f6&style=flat-square" alt="Profile views"/>
-  <img src="https://img.shields.io/github/followers/yourusername?label=Followers&style=flat-square&color=3b82f6" alt="Followers"/>
+  <img src="https://komarev.com/ghpvc/?username=radhakrishna131&label=Profile%20Views&color=3b82f6&style=flat-square" alt="Profile views"/>
+  <img src="https://img.shields.io/github/followers/radhakrishna131?label=Followers&style=flat-square&color=3b82f6" alt="Followers"/>
 </p>
 
 </div>
